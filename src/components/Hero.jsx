@@ -18,7 +18,6 @@ const Hero = () => {
 	 type: "lines",
 	});
 	
-	// Apply text-gradient class once before animating
 	heroSplit.chars.forEach((char) => char.classList.add("text-gradient"));
 	
 	gsap.from(heroSplit.chars, {
@@ -73,7 +72,7 @@ const Hero = () => {
  return (
 	<>
 	 <section id="hero" className="noisy">
-		<h1 className="title">MOJITO</h1>
+		<h1 className="title">VODKA</h1>
 		
 		<img
 		 src="/images/hero-left-leaf.png"
@@ -87,7 +86,7 @@ const Hero = () => {
 		/>
 		
 		<div className="body">
-		 {/* <img src="/images/arrow.png" alt="arrow" className="arrow" /> */}
+		 {<img src="/images/arrow.png" alt="arrow" className="arrow" />}
 		 
 		 <div className="content">
 			<div className="space-y-5 hidden md:block">
@@ -99,11 +98,11 @@ const Hero = () => {
 			
 			<div className="view-cocktails">
 			 <p className="subtitle">
-				Every cocktail on our menu is a blend of premium ingredients,
+				Every vodka on our menu is a blend of premium ingredients,
 				creative flair, and timeless recipes — designed to delight your
 				senses.
 			 </p>
-			 <a href="#cocktails">View cocktails</a>
+			 <a href="#cocktails">View vodka</a>
 			</div>
 		 </div>
 		</div>
