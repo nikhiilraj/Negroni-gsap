@@ -134,38 +134,38 @@ const socials = [
  },
 ];
 
-const sliderLists = [
+const allCocktails = [
  {
 	id: 1,
-	name: "Classic Mojito",
+	name: "Vodka Martini",
 	image: "/images/drink1.png",
 	title: "Simple Ingredients, Bold Flavor",
 	description:
-	 "Made with tequila, lime juice, and orange liqueur, the Margarita is easy to make and full of character. Add a salted rim for the perfect drink on summer nights.",
+	 "A timeless classic built on clarity and balance. Smooth vodka, gently stirred and served ice-cold, finished with a subtle citrus or olive note. Minimal, elegant, and unapologetically refined.",
  },
  {
 	id: 2,
-	name: "Raspberry Mojito",
+	name: "Moscow Mule",
 	image: "/images/drink2.png",
 	title: "A Zesty Classic That Never Fails",
 	description:
-	 "The Margarita is a classic that balances tangy lime, smooth tequila, and a touch of sweetness. Shaken, frozen, or on the rocks—it’s always crisp & refreshing.",
+	 "A bold, refreshing blend of vodka, zesty lime, and spicy ginger beer. Served chilled for a crisp, energetic finish that’s light, vibrant, and endlessly refreshing.",
  },
  {
 	id: 3,
-	name: "Violet Breeze",
+	name: "Bloody Mary",
 	image: "/images/drink3.png",
 	title: "Simple Ingredients, Bold Flavor",
 	description:
-	 "Made with tequila, lime juice, and orange liqueur, the Margarita is easy to make and full of character. Add a salted rim for the perfect drink on summer nights.",
+	 "Savory, spiced, and full-bodied. Vodka meets tomato juice, citrus, and bold seasonings to create a rich cocktail with depth, character, and a satisfying kick.",
  },
  {
 	id: 4,
-	name: "Curacao Mojito",
+	name: "Cosmopolitan",
 	image: "/images/drink4.png",
 	title: "Crafted With Care, Poured With Love",
 	description:
-	 "Each cocktail is made with fresh ingredients and a passion for perfecting every pour, whether you're celebrating or simply relaxing.",
+	 "Bright, stylish, and perfectly balanced. Vodka combined with cranberry, citrus, and a hint of sweetness for a smooth sip that’s refreshing, modern, and iconic.",
  },
 ];
 
@@ -179,5 +179,5 @@ export {
  openingHours,
  storeInfo,
  socials,
- sliderLists,
+ allCocktails,
 };
