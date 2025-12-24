@@ -8,7 +8,7 @@ It is a **motion system** implemented on the web.
 
 ---
 
-![Website](/images/crystalpourweb.png)
+![Website](/public/images/crystalpourweb.png)
 
 ---
 
