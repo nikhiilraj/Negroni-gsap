@@ -8,6 +8,10 @@ It is a **motion system** implemented on the web.
 
 ---
 
+![Website](/images/crystalpourweb.png)
+
+---
+
 ## Executive Summary
 
 - Designed and built an **end-to-end motion architecture**
